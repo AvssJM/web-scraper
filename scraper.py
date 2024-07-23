@@ -14,6 +14,7 @@ soup = BeautifulSoup(response.text, 'html.parser')
 
 print(soup.title.text)
 
+
 import csv
 
  
